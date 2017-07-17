@@ -1,0 +1,7 @@
+2017-07-17 13:58:17 0 TestBase - Creating obejct of browser Chrome
+2017-07-17 13:58:17 8367 TestBase - Navigating to the URL : http://automationpractice.com/index.php
+2017-07-17 13:58:17 8520 TC001_VerifyLoginWithInvalidCredentials - *******Starting the Test***********
+2017-07-17 13:58:17 10345 HomePage - Clicking on the sign in btn [[ChromeDriver: chrome on XP (8f91434e94939264d5311f17ad7543fb)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-17 13:58:17 12510 HomePage - Entering the username Balvinder.dh23@gmail.com in the field 
+2017-07-17 13:58:17 12611 HomePage - Entering the password in the field 
+2017-07-17 13:58:17 14604 TC001_VerifyLoginWithInvalidCredentials - *******Finishing the Test***********

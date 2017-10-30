@@ -6,6 +6,8 @@ public class TC02 {
 @Test
 public void nTest(){
 	System.out.println("Hi This is the new Test Case");
+	String name="Balwinder";
+	System.out.println(name);
 }
 
 }
